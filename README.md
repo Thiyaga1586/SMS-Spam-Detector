@@ -67,3 +67,9 @@ The following classifiers are implemented:
 ## Conclusion
 This project effectively classifies SMS messages as spam or non-spam using multiple machine learning models. The trained model and vectorizer can be reused for future predictions, making this system robust for real-world applications.
 
+## License
+[![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+This project is licensed under the MIT License.
+
+
